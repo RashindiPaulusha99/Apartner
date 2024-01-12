@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.293" height="20.571" viewBox="0 0 26.293 20.571">
+  <g id="bed-outline" transform="translate(0.75 0.75)" style="isolation: isolate">
+    <path id="Path_17" data-name="Path 17" d="M23.914,15.332H6.75v-6.2A2.391,2.391,0,0,1,9.134,6.75h14.3a2.391,2.391,0,0,1,2.384,2.384v6.2Z" transform="translate(-3.889 -6.75)" fill="none" stroke="#212322" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_18" data-name="Path 18" d="M3.375,27.364V20.689a3.825,3.825,0,0,1,3.814-3.814H24.353a3.825,3.825,0,0,1,3.814,3.814v6.675" transform="translate(-3.375 -8.293)" fill="none" stroke="#212322" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_19" data-name="Path 19" d="M3.375,28.907V28.43A1.434,1.434,0,0,1,4.806,27H26.738a1.434,1.434,0,0,1,1.431,1.431v.477" transform="translate(-3.375 -9.836)" fill="none" stroke="#212322" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_20" data-name="Path 20" d="M7.875,16.361v-.954A1.912,1.912,0,0,1,9.782,13.5H14.55a1.912,1.912,0,0,1,1.907,1.907v.954" transform="translate(-4.061 -7.779)" fill="none" stroke="#212322" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_21" data-name="Path 21" d="M18,16.361v-.954A1.912,1.912,0,0,1,19.907,13.5h4.768a1.912,1.912,0,0,1,1.907,1.907v.954" transform="translate(-5.604 -7.779)" fill="none" stroke="#212322" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

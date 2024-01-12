@@ -1,0 +1,17 @@
+<svg id="visitor_ID" data-name="visitor ID" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Group_702" data-name="Group 702">
+    <path id="Path_170" data-name="Path 170" d="M31.906,10.25H22.625V5.094A3.09,3.09,0,0,0,19.531,2H17.469a3.09,3.09,0,0,0-3.094,3.094V10.25H5.094A3.09,3.09,0,0,0,2,13.344V31.906A3.09,3.09,0,0,0,5.094,35H31.906A3.09,3.09,0,0,0,35,31.906V13.344A3.09,3.09,0,0,0,31.906,10.25ZM17.469,5.094h2.063v8.25H17.469ZM31.906,31.906H5.094V13.344h9.281a3.09,3.09,0,0,0,3.094,3.094h2.063a3.09,3.09,0,0,0,3.094-3.094h9.281Z" transform="translate(-2 -2)" fill="#004f71"/>
+  </g>
+  <g id="Group_703" data-name="Group 703" transform="translate(20.625 16.5)">
+    <rect id="Rectangle_855" data-name="Rectangle 855" width="6.188" height="3.094" fill="#004f71"/>
+  </g>
+  <g id="Group_704" data-name="Group 704" transform="translate(20.625 21.656)">
+    <rect id="Rectangle_856" data-name="Rectangle 856" width="6.188" height="3.094" fill="#004f71"/>
+  </g>
+  <g id="Group_705" data-name="Group 705" transform="translate(8.766 16.5)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.578" cy="2.578" r="2.578" fill="#004f71"/>
+  </g>
+  <g id="Group_706" data-name="Group 706" transform="translate(6.188 22.688)">
+    <path id="Path_171" data-name="Path 171" d="M13.745,13.742a9.044,9.044,0,0,0-7.178,0A2.6,2.6,0,0,0,5,16.135v.99H15.313v-.99A2.6,2.6,0,0,0,13.745,13.742Z" transform="translate(-5 -13)" fill="#004f71"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="OTP" xmlns="http://www.w3.org/2000/svg" width="32" height="19" viewBox="0 0 32 19">
+  <g id="Rectangle_967" data-name="Rectangle 967" fill="#f23b4e" stroke="#f23b4e" stroke-width="1">
+    <rect width="32" height="19" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="31" height="18" rx="5.5" fill="none"/>
+  </g>
+  <text id="OUT" transform="translate(4 14)" fill="#fff" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">OUT</tspan></text>
+</svg>

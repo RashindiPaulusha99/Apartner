@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.5" height="16" viewBox="0 0 79.5 16">
+  <g id="Group_763" data-name="Group 763" transform="translate(-134 -81.751)">
+    <text id="Show_More" data-name="Show More" transform="translate(134 93.751)" fill="#89b2c4" font-size="11" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Show More</tspan></text>
+    <g id="Icon_ionic-ios-arrow-dropdown" data-name="Icon ionic-ios-arrow-dropdown" transform="translate(198.625 80.626)">
+      <path id="Path_132" data-name="Path 132" d="M10.138,14.571a.536.536,0,0,0,0,.755l2.646,2.637a.533.533,0,0,0,.735.017l2.607-2.6a.533.533,0,1,0-.752-.755l-2.239,2.206-2.242-2.264A.533.533,0,0,0,10.138,14.571Z" transform="translate(-4.01 -6.698)" fill="#89b2c4"/>
+      <path id="Path_133" data-name="Path 133" d="M3.375,9.125a5.75,5.75,0,1,0,5.75-5.75A5.749,5.749,0,0,0,3.375,9.125Zm9.189-3.439A4.859,4.859,0,1,1,9.125,4.26,4.824,4.824,0,0,1,12.564,5.686Z" fill="#89b2c4"/>
+    </g>
+  </g>
+</svg>

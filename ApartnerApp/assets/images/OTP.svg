@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="19" viewBox="0 0 67 19">
+  <g id="OTP" transform="translate(1.491 -1.401)">
+    <g id="Rectangle_967" data-name="Rectangle 967" transform="translate(-1.491 1.401)" fill="#fff" stroke="#4d4d4d" stroke-width="1">
+      <rect width="67" height="19" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="66" height="18" rx="5.5" fill="none"/>
+    </g>
+    <text id="OTP_:_1234" data-name="OTP : 1234" transform="translate(2.509 15.401)" fill="#4d4d4d" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">OTP : 1234</tspan></text>
+  </g>
+</svg>

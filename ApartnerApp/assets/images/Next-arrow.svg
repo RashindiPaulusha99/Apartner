@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126.926" height="27.926" viewBox="0 0 126.926 27.926">
+  <g id="Group_933" data-name="Group 933" transform="translate(-128.594 2.463)">
+    <g id="Icon_feather-arrow-right-circle" data-name="Icon feather-arrow-right-circle" transform="translate(228.594 -1.463)">
+      <path id="Path_927" data-name="Path 927" d="M28.926,15.963A12.963,12.963,0,1,1,15.963,3,12.963,12.963,0,0,1,28.926,15.963Z" transform="translate(-3 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_928" data-name="Path 928" d="M18,22.37l5.185-5.185L18,12" transform="translate(-5.037 -4.222)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_929" data-name="Path 929" d="M12,18H22.37" transform="translate(-4.222 -5.037)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <text id="Get_Started" data-name="Get Started" transform="translate(174.594 17)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-45.816" y="0">Get Started</tspan></text>
+  </g>
+</svg>

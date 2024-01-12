@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463755868144",
+    "project_id": "reactnative-6baba",
+    "storage_bucket": "reactnative-6baba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463755868144:android:3679247cc693aa8cbb0f35",
+        "android_client_info": {
+          "package_name": "com.apartnerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463755868144-k0arl50d925mn8a58jpliunt6897aj8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6yhNRHUPJJPM4FBFuzArDugH5Lu1wPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463755868144-k0arl50d925mn8a58jpliunt6897aj8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
